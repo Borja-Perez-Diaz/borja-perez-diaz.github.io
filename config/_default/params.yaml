@@ -14,7 +14,9 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Personal website of Borja Pérez-Díaz.
+      PhD in Astrophysics.
+      Research, publications, software and projects.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
