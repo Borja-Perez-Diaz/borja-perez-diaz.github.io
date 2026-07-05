@@ -6,7 +6,7 @@
 # Website name
 title: Borja Perez-Diaz
 # Website URL
-baseURL: '"https://borja-perez-diaz.github.io"'
+baseURL: '"https://borja-perez-diaz.github.io/"'
 
 ############################
 ## LANGUAGE
