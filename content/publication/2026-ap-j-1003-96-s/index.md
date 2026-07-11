@@ -36,7 +36,7 @@ publication_types:
 - article-journal
 publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ae5d2c
-abstract: 'One of JWST's most unexpected discoveries is the emergence of ``Little
+abstract: 'One of JWST''s most unexpected discoveries is the emergence of ``Little
         Red Dots'' (LRDs), compact sources at z {\ensuremath{\gtrsim}} 3
         with blue rest-frame UV continua, red optical slopes, and broad
         Balmer emission lines that challenge standard models and suggest
