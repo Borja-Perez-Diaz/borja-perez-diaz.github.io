@@ -1,16 +1,38 @@
 ---
-title: 'Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method'
+title: 'Investigating ionising sources and the complex interstellar medium of GHZ2 at z = 12.3'
 authors:
 - Marco Castellano
 - Lorenzo Napolitano
 - Bianca Moreschini
 - Antonello Calabrò
-- '[...]'
+- Lise Christensen
+- Mario Llerena
+- Thomas J. L. C. Bakx
+- Franceso Belfiore
+- Davide Bevacqua
+- Mark Dickinson
+- Adriano Fontana
+- Giovanni Gandolfi
+- Tommaso Gasparetto
+- Alessandro Marconi
+- Sara Mascia
+- Emiliano Merlin
+- Takahiro Morishita
+- Themiya Nanayakkara
+- Diego Paris
+- Laura Pentericci
 - admin
-- '[...]'
+- Guido Roberts-Borsani
+- Sofia R. Ruiz
+- Paola Santini
+- Tommaso L. Treu
+- Eros Vanzella
+- Benedetta Vulcani
+- Xin Wang
+- Ilsang Yoon
 - Jorge Zavala
-date: '2026-04-01'
-publishDate: '2025-09-24T18:13:05.188402Z'
+date: '2026-04-09'
+publishDate: "{{ .Now }}"
 publication_types:
 - article-journal
 publication: '*The Open Journal of Astrophysics*'
