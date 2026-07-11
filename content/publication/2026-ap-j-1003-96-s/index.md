@@ -1,5 +1,5 @@
 ---
-title: 'From "The Cliff" to "Virgil": Mapping the Spectral Diversity of Little Red Dots with JWST/NIRSpec '
+title: 'From "The Cliff" to "Virgil": Mapping the Spectral Diversity of Little Red Dots with JWST/NIRSpec'
 authors:
 - Guillermo Barro
 - Pablo G. Pérez-González
