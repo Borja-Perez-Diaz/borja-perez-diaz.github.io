@@ -3,9 +3,9 @@ title: Chemical abundances in the nuclear region of nearby galaxies from the Pal
   Survey
 authors:
 - admin
-- J. Masegosa
-- I. Márquez
-- E. Pérez-Montero
+- Josefa Masegosa
+- Isabel Márquez
+- Enrique Pérez-Montero
 date: '2021-08-01'
 publishDate: '2025-08-14T18:13:05.389688Z'
 publication_types:
@@ -30,11 +30,10 @@ abstract: We estimate chemical abundances and ionization parameters in the nucle
   (both LINERs and Seyferts) shows that their host galaxy properties are not correlated
   with our estimated chemical abundances.
 tags:
-- 'galaxies: abundances'
-- 'galaxies: active'
-- 'galaxies: ISM'
-- 'galaxies: nuclei'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2105.11164

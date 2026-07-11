@@ -2,11 +2,11 @@
 title: Assessing model-based carbon and oxygen abundance derivation from ultraviolet
   emission lines in AGNs
 authors:
-- E. Pérez-Montero
-- R. Amorı́n
+- Enrique Pérez-Montero
+- Ricardo Amorı́n
 - admin
-- J. M. Vílchez
-- R. García-Benito
+- José M. Vílchez
+- Rubén García-Benito
 date: '2023-05-01'
 publishDate: '2025-08-14T18:13:05.321685Z'
 publication_types:
@@ -21,21 +21,19 @@ abstract: We present an adapted version of the code HII-CHI-MISTRY-UV to derive 
   of the gas envelope around the central source, may affect the final estimates as
   a function of the set of emission lines used. We compare our results with other
   published recipes for deriving abundances using the same emission lines and show
-  that deriving the carbon-to-oxygen abundance ratio using C III] ensuremathłambda
-  1909 ̊A and O III] ensuremathłambda 1665 Å emission lines is a robust indicator
+  that deriving the carbon-to-oxygen abundance ratio using C III]l1909A and O III]l1665A emission lines is a robust indicator
   of the metal content in AGN that is nearly independent of the model assumptions,
   similar to the case of star-forming regions. Moreover, we show that a prior determination
   of C/O allows for a much more precise determination of the total oxygen abundance
   using carbon UV lines, as opposed to assuming an arbitrary relationship between
   O/H and C/O, which can lead to non-negligible discrepancies.
 tags:
-- 'galaxies: active'
-- 'galaxies: abundances'
-- 'galaxies: evolution'
-- 'galaxies: ISM'
-- 'galaxies: nuclei'
-- 'galaxies: Seyfert'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: active'
+- 'Galaxies: abundances'
+- 'Galaxies: evolution'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
+- 'Galaxies: Seyfert'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2302.12560

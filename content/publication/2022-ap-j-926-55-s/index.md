@@ -41,8 +41,11 @@ abstract: 'We present new and archival SOFIA FIFI-LS far-IR spectroscopic observ
   IR diagnostics, while optical diagnostics would better trace the secondary production,
   when both N/O and O/H abundance ratios increase.'
 tags:
-- '574'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
+- 'Infrared: ISM'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2111.04434

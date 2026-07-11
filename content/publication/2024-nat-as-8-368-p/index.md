@@ -31,7 +31,12 @@ abstract: Heavy element accumulation and stellar mass assembly are fundamental p
   galaxies, suggesting that chemical enrichment and stellar-mass growth in luminous
   IR galaxies likely occur via mergers, driving these galaxies out of chemical equilibrium.
 tags:
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: evolution'
+- 'Galaxies: starburst'
+- 'ISM: infrared'
+- 'ISM: ULIRGs'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2306.14843

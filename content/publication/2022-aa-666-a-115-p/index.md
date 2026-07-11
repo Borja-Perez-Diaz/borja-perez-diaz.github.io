@@ -41,12 +41,11 @@ abstract: "Context. Future and ongoing infrared and radio observatories such as 
   or the incident radiation field to the gas, and it is likely associated with dust
   obscuration and/or temperature stratification within the gas nebula."
 tags:
-- 'galaxies: abundances'
-- 'galaxies: active'
-- 'galaxies: ISM'
-- 'galaxies: nuclei'
-- 'infrared: ISM'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
+- 'Infrared: ISM'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.08718

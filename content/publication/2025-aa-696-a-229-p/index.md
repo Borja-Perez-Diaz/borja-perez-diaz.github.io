@@ -41,9 +41,8 @@ abstract: Aims. After exploring a version of the infrared (IR) softness diagram 
   In contrast, we observed a harder radiation field in low-luminosity AGNs, where
   the accretion disk is expected to recede.
 tags:
-- 'galaxies: active'
-- 'galaxies: star formation'
-- Astrophysics of Galaxies
+- 'Galaxies: active'
+- 'Galaxies: star formation'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2503.09267

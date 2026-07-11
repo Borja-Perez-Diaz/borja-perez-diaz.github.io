@@ -42,8 +42,9 @@ abstract: ' The derivation of sulphur chemical abundances in the gas-phase of st
         grains, as it remains when other metallicity indicators
         independent of this depletion, as S/H itself, are used instead.'
 tags:
-- Astrophysics of Galaxies
-- 'galaxies: abundances'
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: evolution'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.14736

@@ -34,12 +34,11 @@ abstract: "Context. The infrared (IR) range is extremely useful in the context o
   warns against the use of optical and IR sulphur emission lines to estimate oxygen
   abundances when no prior estimation of log(S/O) is provided."
 tags:
-- 'galaxies: abundances'
-- 'galaxies: active'
-- 'galaxies: ISM'
-- 'galaxies: nuclei'
-- 'infrared: ISM'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
+- 'Infrared: ISM'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2403.02903

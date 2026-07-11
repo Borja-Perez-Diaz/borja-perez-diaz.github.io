@@ -2,15 +2,15 @@
 title: A MUSE/VLT spatially resolved study of the emission structure of Green Pea
   galaxies
 authors:
-- A. Arroyo-Polonio
-- J. Iglesias-Páramo
-- C. Kehrig
-- J. M. Vı́lchez
-- R. Amorín
-- I. Breda
-- E. Pérez-Montero
+- Antonio Arroyo-Polonio
+- Jorge Iglesias-Páramo
+- Carolina Kehrig
+- José M. Vı́lchez
+- Ricardo Amorín
+- Iris Breda
+- Enrique Pérez-Montero
 - admin
-- M. Hayes
+- Matthew Hayes
 date: '2023-09-01'
 publishDate: '2025-08-14T18:13:05.305322Z'
 publication_types:
@@ -24,7 +24,7 @@ abstract: Green Pea galaxies (GPs) present among the most intense starbursts kno
   integral field spectroscopic (IFS) study for a set of 24 GPs to investigate the
   interplay between its ionized interstellar medium (ISM) and the massive star formation
   that these galaxies present. Observations were taken in the optical spectral range
-  (ensuremathłambda4750 ̊A-ensuremathłambda9350 Å) with the MUSE spectrograph attached
+  (l4750A-l9350A) with the MUSE spectrograph attached
   to the 8.2 m telescope VLT. Spatial extension criteria were employed to verify which
   GPs are spatially resolved in the MUSE data cubes. We created and analyzed maps
   of spatially distributed emission lines (at different stages of excitation), continuum
@@ -35,29 +35,26 @@ abstract: Green Pea galaxies (GPs) present among the most intense starbursts kno
   line ratios show that higher-excitation gas is preferentially located in the center
   of the galaxy, where the starburst is present. The continuum maps, with an average
   angular extent of 4″, exhibit more complex structures than the emission line maps.
-  However, the [O III]ensuremathłambda5007 r̊ emission line maps tend to extend beyond
+  However, the [O III]l5007A emission line maps tend to extend beyond
   the continuum images (the average angular extent is 5.5″), indicating the presence
-  of low surface brightness ionized gas in the outer parts of the galaxies. Hensuremathα/Hensuremathβ,
-  [S II]/Hensuremathα, and [O I]/Hensuremathα maps trace low-extinction, optically
-  thin regions. The line ratios [O III]/Hensuremathβ and [N II]/Hensuremathα span
+  of low surface brightness ionized gas in the outer parts of the galaxies. Hα/Hβ,
+  [S II]/Hα, and [O I]/Hα maps trace low-extinction, optically
+  thin regions. The line ratios [O III]/Hβ and [N II]/Hα span
   extensive ranges, with values varying from 0.5 dex to 0.9 dex and from ensuremath-1.7
   dex to ensuremath-0.8 dex, respectively. Regarding the integrated spectra, the line
   ratios were fit to derive physical properties including the electron densities n$_e$
-  = 30 ensuremath- 530 cm$^ensuremath-3$, and, in six GPs with a measurable [O III]ensuremathłambda4363
-  r̊ line, electron temperatures of T$_e$ = 11 500 K-15 500 K, so the direct method
+  = 30 ensuremath- 530 cm$^ensuremath-3$, and, in six GPs with a measurable [O III]l4363A line, electron temperatures of T$_e$ = 11 500 K-15 500 K, so the direct method
   was applied in these objects to retrieve metallicities 12 + log(O/H)≃8. We found
   the presence of the high-ionizing nebular He IIensuremathłambda4686 rA ̊line in
   three GPs, where two of them present among the highest sSFR values (> 8 × 10$^8$
-  yr$^ensuremath-1$) in this sample. Non-Wolf-Rayet (WR) features are detected in
+  yr$^-1$) in this sample. Non-Wolf-Rayet (WR) features are detected in
   these galaxy spectra.
 tags:
-- HII regions
-- 'galaxies: starburst'
-- 'galaxies: ISM'
-- 'galaxies: star formation'
-- 'galaxies: evolution'
-- 'ISM: abundances'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: ISM'
+- 'Galaxies: starburst'
+- 'Galaxies: star formation'
+- 'Galaxies: evolution'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2309.09585

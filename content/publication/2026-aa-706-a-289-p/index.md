@@ -46,11 +46,12 @@ abstract: ' Context. Chemical abundance radial gradients provide key information
         scales depending on the galaxy and its evolutionary stage, might
         be responsible for these departures.'
 tags:
-- 'galaxies: abundances'
-- 'galaxies: active'
-- 'galaxies: ISM'
-- 'galaxies: nuclei'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: evolution'
+- 'Galaxies: HII regions'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2512.10769

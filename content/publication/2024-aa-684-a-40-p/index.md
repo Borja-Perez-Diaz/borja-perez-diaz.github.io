@@ -3,12 +3,12 @@ title: Exploring the hardness of the ionising radiation with the infrared softne
   diagram. I. Similar effective temperature scales for starbursts and (ultra)luminous
   infrared galaxies
 authors:
-- E. Pérez-Montero
-- J. A. Fernández-Ontiveros
+- Enrique Pérez-Montero
+- Juan A. Fernández-Ontiveros
 - admin
-- J. M. Vílchez
-- N. Kumari
-- ́R. Amorín
+- José M. Vílchez
+- Nimisha Kumari
+- ́Ricardo Amorín
 date: '2024-04-01'
 publishDate: '2025-08-14T18:13:05.268998Z'
 publication_types:
@@ -42,10 +42,10 @@ abstract: ' Aims: We explored the softness parameter in the infrared, ensuremath
   very large amounts of small grains associated with the very high star formation
   rates measured in galaxies of this type.'
 tags:
-- 'galaxies: abundances'
-- 'galaxies: star formation'
-- 'galaxies: stellar content'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: star formation'
+- 'Galaxies: stellar content'
+- 'ISM: infrared''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.09765

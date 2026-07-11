@@ -2,12 +2,12 @@
 title: 'Contribution of very massive stars to the sulfur abundance in star-forming
   galaxies: Role of pair-instability supernovae'
 authors:
-- S. Goswami
-- J. M. Vílchez
+- Sabyasachi Goswami
+- José M. Vílchez
 - admin
-- L. Silva
-- A. Bressan
-- E. Pérez-Montero
+- Laura Silva
+- Alessandro Bressan
+- Enrique Pérez-Montero
 date: '2024-05-01'
 publishDate: '2025-08-14T18:13:05.260924Z'
 publication_types:
@@ -32,14 +32,12 @@ abstract: 'Context. Recent work presented increasing evidence of high non-consta
   taken into account to explain the chemical enrichment of sulphur and oxygen in metal-poor
   star-forming regions.'
 tags:
-- 'stars: massive'
-- 'stars: Population II'
-- 'stars: Population III'
+- 'Stars: massive'
+- 'Stars: Population II'
+- 'Stars: Population III'
 - 'Galaxy: abundances'
-- 'galaxies: starburst'
-- 'galaxies: luminosity function'
-- mass function
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: starburst'
+- 'Galaxies: luminosity function'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2402.13240

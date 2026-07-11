@@ -1,13 +1,13 @@
 ---
 title: Chemistry and physical properties of the born-again planetary nebula HuBi 1
 authors:
-- B. Montoro-Molina
-- M. A. Guerrero
+- Borja Montoro-Molina
+- Martín A. Guerrero
 - admin
-- J. A. Toalá
-- S. Cazzoli
-- M. M. Miller Bertolami
-- C. Morisset
+- Jesús A. Toalá
+- Sara Cazzoli
+- Martín M. Miller Bertolami
+- Christophe Morisset
 date: '2022-05-01'
 publishDate: '2025-08-14T18:13:05.373308Z'
 publication_types:
@@ -35,12 +35,9 @@ abstract: The central star of the planetary nebula (PN) HuBi 1 has been recently
 tags:
 - 'stars: evolution'
 - 'stars: winds'
-- outflows
 - 'ISM: jets and outflows'
 - 'planetary nebulae: general'
 - 'planetary nebulae: individual (HuBi 1)'
-- Astrophysics - Solar and Stellar Astrophysics
-- Astrophysics - Astrophysics of Galaxies
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2202.00353

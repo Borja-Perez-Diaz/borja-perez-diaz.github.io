@@ -2,11 +2,11 @@
 title: 'The softness diagram for MaNGA star-forming regions: diffuse ionized gas contamination
   or local HOLMES predominance?'
 authors:
-- E. Pérez-Montero
-- I. A. Zinchenko
-- J. M. Vı́lchez
-- A. Zurita
-- E. Florido
+- Enrique Pérez-Montero
+- Igor A. Zinchenko
+- José M. Vı́lchez
+- Almudena Zurita
+- Estrella Florido
 - admin
 date: '2023-01-01'
 publishDate: '2025-08-14T18:13:05.335513Z'
@@ -34,10 +34,10 @@ abstract: ' Aims: We explore the so-called softness diagram - whose main functio
   measured T$_*$ as opposed to there being a predominant role of HOLMES in the H II
   regions.'
 tags:
-- 'galaxies: abundances'
-- 'galaxies: stellar content'
-- 'galaxies: star formation'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: HII regions'
+- 'Galaxies: stellar content'
+- 'Galaxies: star formation'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2212.03216

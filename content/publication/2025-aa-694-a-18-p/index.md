@@ -37,11 +37,10 @@ abstract: Context. The chemical enrichment in low-ionization nuclear emission-li
   the chemical enrichment history, whereas the assumption of active galactic nucleus
   activity is compatible with the standard scenario that is found in most galaxies.
 tags:
-- 'galaxies: abundances'
-- 'galaxies: active'
-- 'galaxies: ISM'
-- 'galaxies: nuclei'
-- Astrophysics - Astrophysics of Galaxies
+- 'Galaxies: abundances'
+- 'Galaxies: active'
+- 'Galaxies: ISM'
+- 'Galaxies: nuclei'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2411.16611
