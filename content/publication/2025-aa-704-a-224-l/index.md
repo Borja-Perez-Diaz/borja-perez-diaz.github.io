@@ -1,21 +1,21 @@
 ---
 title: "Andromeda's tenuous veil: A likely Milky Way nebula projected toward M31"
 authors:
-- A. Lumbreras-Calle
-- J. A. Fernández-Ontiveros
-- R. Infante-Sainz
-- M. Akhlaghi
-- B. Montoro-Molina
+- Alejandro Lumbreras-Calle
+- Juan A. Fernández-Ontiveros
+- Raúl Infante-Sainz
+- Mohammad Akhlaghi
+- Borja Montoro-Molina
 - admin
-- A. del Pino
-- H. Vives-Arias
-- A. Hernán-Caballero
-- C. López-Sanjuan
-- M. A. Martín-Guerrero
-- S. Eskandarlou
-- A. Ederoclite
+- Andrés del Pino
+- Hector Vives-Arias
+- Antonio Hernán-Caballero
+- Carlos López-Sanjuan
+- Martín A. Martín-Guerrero
+- Sepideh Eskandarlou
+- Alessandro Ederoclite
 date: '2025-12-16'
-publishDate: '2025-12-19T18:13:05.213345Z'
+publishDate: '2025-12-16T18:13:05.213345Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

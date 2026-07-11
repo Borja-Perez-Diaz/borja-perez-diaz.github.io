@@ -12,7 +12,7 @@ authors:
 - admin
 - Matthew Hayes
 date: '2023-09-01'
-publishDate: '2025-08-14T18:13:05.305322Z'
+publishDate: '2023-09-01T18:13:05.305322Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

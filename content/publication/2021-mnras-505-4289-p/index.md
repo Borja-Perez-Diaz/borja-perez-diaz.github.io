@@ -7,7 +7,7 @@ authors:
 - Isabel Márquez
 - Enrique Pérez-Montero
 date: '2021-08-01'
-publishDate: '2025-08-14T18:13:05.389688Z'
+publishDate: '2021-08-01T18:13:05.389688Z'
 publication_types:
 - article-journal
 publication: '*Monthly Notices of the Royal Astronomical Society*'

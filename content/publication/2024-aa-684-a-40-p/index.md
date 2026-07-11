@@ -10,7 +10,7 @@ authors:
 - Nimisha Kumari
 - ́Ricardo Amorín
 date: '2024-04-01'
-publishDate: '2025-08-14T18:13:05.268998Z'
+publishDate: '2024-04-01T18:13:05.268998Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

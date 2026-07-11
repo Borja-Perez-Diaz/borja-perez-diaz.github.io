@@ -13,7 +13,7 @@ authors:
 - Sebastian Colditz
 - Christian Fischer
 date: '2022-02-01'
-publishDate: '2025-08-14T18:13:05.381422Z'
+publishDate: '2022-02-01T18:13:05.381422Z'
 publication_types:
 - article-journal
 publication: '*The Astrophysical Journal*'

@@ -9,7 +9,7 @@ authors:
 - Martín M. Miller Bertolami
 - Christophe Morisset
 date: '2022-05-01'
-publishDate: '2025-08-14T18:13:05.373308Z'
+publishDate: '2022-05-01T18:13:05.373308Z'
 publication_types:
 - article-journal
 publication: '*Monthly Notices of the Royal Astronomical Society*'

@@ -9,7 +9,7 @@ authors:
 - Alessandro Bressan
 - Enrique Pérez-Montero
 date: '2024-05-01'
-publishDate: '2025-08-14T18:13:05.260924Z'
+publishDate: '2024-05-01T18:13:05.260924Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

@@ -9,7 +9,7 @@ authors:
 - Estrella Florido
 - admin
 date: '2023-01-01'
-publishDate: '2025-08-14T18:13:05.335513Z'
+publishDate: '2023-01-01T18:13:05.335513Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

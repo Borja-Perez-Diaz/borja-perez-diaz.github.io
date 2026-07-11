@@ -7,7 +7,7 @@ authors:
 - Igor A. Zinchenko
 - José M. Vílchez
 date: '2025-02-01'
-publishDate: '2025-08-14T18:13:05.222047Z'
+publishDate: '2025-02-01T18:13:05.222047Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

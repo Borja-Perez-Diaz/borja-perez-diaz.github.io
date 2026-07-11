@@ -9,7 +9,7 @@ authors:
 - J. M. Vílchez
 - ́R. Amorín
 date: '2025-04-01'
-publishDate: '2025-08-14T18:13:05.213345Z'
+publishDate: '2025-04-01T18:13:05.213345Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

@@ -7,8 +7,8 @@ authors:
 - Igor A. Zinchenko
 - Brian Tapia-Contreras
 - Patricia B. Tissera
-date: '2025-12-08'
-publishDate: '2026-01-14T18:13:05.222047Z'
+date: '2026-02-18'
+publishDate: '2026-02-18T18:13:05.222047Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

@@ -8,7 +8,7 @@ authors:
 - José M. Vílchez
 - Rubén García-Benito
 date: '2023-05-01'
-publishDate: '2025-08-14T18:13:05.321685Z'
+publishDate: '2023-05-01T18:13:05.321685Z'
 publication_types:
 - article-journal
 publication: '*Monthly Notices of the Royal Astronomical Society*'

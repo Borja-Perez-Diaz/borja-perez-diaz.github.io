@@ -8,7 +8,7 @@ authors:
 - José M. Vílchez
 - ́Ricardo Amorín
 date: '2024-03-01'
-publishDate: '2025-08-14T18:13:05.283590Z'
+publishDate: '2024-03-01T18:13:05.283590Z'
 publication_types:
 - article-journal
 publication: '*Nature Astronomy*'
