@@ -32,7 +32,7 @@ authors:
 - Ilsang Yoon
 - Jorge Zavala
 date: '2026-04-09'
-publishDate: "{{ .Now }}"
+publishDate: '2026-04-09T10:30:00Z'
 publication_types:
 - article-journal
 publication: '*The Open Journal of Astrophysics*'
