@@ -5,9 +5,9 @@ authors:
 - Lorenzo Napolitano
 - Bianca Moreschini
 - Antonello Calabrò
-- [...]
+- '[...]'
 - admin
-- [...]
+- '[...]'
 - Jorge Zavala
 date: '2026-04-01'
 publishDate: '2025-09-24T18:13:05.188402Z'
@@ -27,7 +27,7 @@ abstract: ' An accurate characterisation of the physical properties of galaxies 
         on the N/O ratio, which is found to be ~2 times the solar
         value. We also detect the MgIIl2800, [Fe
         IV]l2833 and SiIIl1812 doublets, the H8+HeIl3889 blend, and the
-        SiIV+OIV]$\lambda$1400
+        SiIV+OIV]l1400
         absorption complex. The OIIIl3133
         fluorescence line is only detected in the first observing epoch,
         implying variability on a rest-frame time span of 19 days,
