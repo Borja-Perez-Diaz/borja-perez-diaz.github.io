@@ -45,7 +45,7 @@ tags:
 - 'Galaxies: abundances'
 - 'Galaxies: star formation'
 - 'Galaxies: stellar content'
-- 'ISM: infrared''
+- 'ISM: infrared'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.09765
