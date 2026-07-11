@@ -12,15 +12,15 @@ tags:
 
 **INDEX**
 
-* [1. Introduction to astrophysics and cosmology](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/)
+* [1. Introduction to astrophysics and cosmology](https://borja-perez-diaz.github.io/teaching/aac/parti/1_what_is_astrophysics/)
 
-    * [1.1. What is Astrophysics?](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#11-what-it-is-astrophysics) 
-    * [1.2. A brief historical summary](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#12-a-brief-historical-summary)
-    * [1.3. Orders of magnitude](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#13-orders-of-magnitude)
-    * [1.4. Precision in the measurements](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#14-precision-in-the-measurements)
-    * [1.5. Recommended books and articles](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#15-recommended-books-and-articles)
+    * [1.1. What is Astrophysics?](https://borja-perez-diaz.github.io/teaching/aac/parti/1_what_is_astrophysics/#11-what-it-is-astrophysics) 
+    * [1.2. A brief historical summary](https://borja-perez-diaz.github.io/teaching/aac/parti/1_what_is_astrophysics/#12-a-brief-historical-summary)
+    * [1.3. Orders of magnitude](https://borja-perez-diaz.github.io/teaching/aac/parti/1_what_is_astrophysics/#13-orders-of-magnitude)
+    * [1.4. Precision in the measurements](https://borja-perez-diaz.github.io/teaching/aac/parti/1_what_is_astrophysics/#14-precision-in-the-measurements)
+    * [1.5. Recommended books and articles](https://borja-perez-diaz.github.io/teaching/aac/parti/1_what_is_astrophysics/#15-recommended-books-and-articles)
 
-* [2. General properties of stars](https://borja-perez-diaz.github.io/me/teaching/aac/parti/2_general_properties_stars/)
+* [2. General properties of stars](https://borja-perez-diaz.github.io/teaching/aac/parti/2_general_properties_stars/)
 
     * 2.1. Introduction
     * 2.2. Luminosity and magnitude
