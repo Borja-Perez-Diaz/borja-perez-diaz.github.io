@@ -1,5 +1,5 @@
 ---
-title: Not so isolated: Green Pea galaxies in overdense environments revealed by VLT/MUSE
+title: 'Not so isolated: Green Pea galaxies in overdense environments revealed by VLT/MUSE'
 authors:
 - Antonio Arroyo-Polonio
 - José M. Vílchez
