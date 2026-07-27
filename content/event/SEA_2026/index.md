@@ -1,8 +1,8 @@
 ---
-title: The NUVOLOSO project: understanding high-z galaxies with low- and medium-resolution observations
+title: The NUVOLOSO project. Understanding high-z galaxies with low- and medium-resolution observations
 
 event: XVII Reunión Científica de la SEA - 2026
-event_url: https://sea2026.ice.csic.es/?lang=en
+event_url: https://sea2026.ice.csic.es/
 
 location: Palau Firal i de Congressos de Tarragona
 address:
