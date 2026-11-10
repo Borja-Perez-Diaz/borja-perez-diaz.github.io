@@ -24,8 +24,8 @@ authors:
 - Cassey Papovich
 - Aaron L. Y. Yung
 - Xin Wang
-date: '2026-20-10'
-publishDate: '2026-20-10T18:13:05.305322Z'
+date: '2026-10-20'
+publishDate: '2026-10-20T18:13:05.305322Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'
