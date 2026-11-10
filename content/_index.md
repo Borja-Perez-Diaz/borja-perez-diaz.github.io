@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: <p align="left">Hola a todos</p>
+      text: My research now is more focused on very high-z (z > 7) systems, with a particular emphasis on the correct interpretation of the emission lines that we can get retrieved for those ages. However, I have been working on chemical enrichment in the nearby Universe (z << 1), both for star-forming dominated systems and Active Galactic Nuclei host galaxies. You can check all the publications that I have authored following [this link](https://scixplorer.org/search?ads_compat=1&fq=%7B%21type%3Daqp+v%3D%24fq_database%7D&fq_database=%28database%3A%22astronomy%22+OR+database%3A%22physics%22%29&p=1&q=orcid%3A%220000-0002-0939-9156%22&sort=date+desc&d=astrophysics).
         
     design:
       columns: '1'
