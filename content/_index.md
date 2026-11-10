@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text: |- Hola a todos
         
     design:
       columns: '1'
