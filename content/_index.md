@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: 'Checking this part!'
+      text: |-
         
     design:
       columns: '1'
