@@ -34,7 +34,9 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: Hola a todos
+      text: <p align="left">
+  Hola a todos
+</p>
         
     design:
       columns: '1'
