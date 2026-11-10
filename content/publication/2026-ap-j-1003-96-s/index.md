@@ -74,8 +74,8 @@ tags:
 - 'Galaxies: active'
 - 'Galaxies: ISM'
 - 'Galaxies: nuclei'
-- 'High-z: galaxies'
-- 'High-z: LRDs'
+- 'Galaxies: high-redshift'
+- 'Galaxies: LRD'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2512.15853
